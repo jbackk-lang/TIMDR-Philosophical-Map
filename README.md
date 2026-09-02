@@ -1,26 +1,38 @@
 # TIMDR-Philosophical-Map
 
-
 # TIMDR — Filozoficzna, Logiczna i Topologiczna Droga  
-### Mapa rozumienia zmiany, pęknięć i reżimów
+### Formalna mapa zmiany, pęknięć i reżimów + literatura naukowa
 
-TIMDR nie jest tylko frameworkiem technicznym.  
-To jest trójwarstwowa droga rozumienia zmiany: **filozoficzna**, **logiczna**, **topologiczna**.  
-Każdy poziom opisuje „pęknięcia” i „przejścia reżimowe” inaczej — ale wszystkie łączą się w jeden spójny system.
+TIMDR jest teorią nowego typu: łączy filozofię, logikę, topologię i analizę sygnałów w jeden spójny system.  
+Jego celem jest formalizacja **momentów zmiany** — punktów krytycznych, w których obiekt, model lub sygnał przechodzi w nowy reżim.
+
+TIMDR nie jest metaforą.  
+TIMDR jest **formalną strukturą**, która może być:
+
+- walidowana,  
+- falsyfikowana,  
+- testowana na danych,  
+- samokorygowana.
 
 ---
 
-## 1. Wprowadzenie
+## 1. Triggery TIMDR — uniwersalne punkty krytyczne
 
-TIMDR traktuje sygnały, modele, definicje i struktury jako **trajektorie**, które mogą zmieniać swój reżim.  
-Zmiana reżimu jest wykrywana przez cztery fundamentalne triggery:
+TIMDR używa czterech fundamentalnych triggerów:
 
-- **SCALE** — zmiana skali  
-- **STRUCTURE** — zmiana struktury  
-- **MODEL_CONFLICT** — konflikt modelu z rzeczywistością  
+- **SCALE** — zmiana skali bytu, logiki lub sygnału  
+- **STRUCTURE** — zmiana formy lub sensu  
+- **MODEL_CONFLICT** — konflikt mapy z terytorium  
 - **CONTINUITY** — przerwanie ciągłości  
 
-Te cztery triggery działają na każdym poziomie: filozoficznym, logicznym, topologicznym i technicznym.
+Każdy z nich działa na poziomie:
+
+- filozoficznym,  
+- logicznym,  
+- topologicznym,  
+- technicznym.
+
+To jest **uniwersalny język zmiany**.
 
 ---
 
@@ -35,19 +47,19 @@ Te cztery triggery działają na każdym poziomie: filozoficznym, logicznym, top
 
 ---
 
-## 3. Uzasadnienie filozoficzne
+## 3. Filozoficzna droga TIMDR
 
-Klasyczna filozofia opisywała zmianę jako:
+TIMDR formalizuje to, co filozofia klasyczna opisywała intuicyjnie:
 
-- strumień (Heraklit),  
-- akt → potencja (Arystoteles),  
-- sprzeczność → synteza (Hegel),  
-- proces (Whitehead),  
-- różnica i stawanie się (Deleuze).
+- Heraklit — strumień i zmiana,  
+- Arystoteles — akt i potencja,  
+- Hegel — sprzeczność i synteza,  
+- Whitehead — procesualność,  
+- Deleuze — różnica i stawanie się.
 
-TIMDR wnosi coś nowego:
+TIMDR wnosi nowość:
 
-### **TIMDR formalizuje moment zmiany — punkt krytyczny — i pozwala go wykryć.**
+### **formalizuje moment zmiany — punkt krytyczny — i pozwala go wykryć.**
 
 To, co było metaforą, staje się:
 
@@ -56,29 +68,22 @@ To, co było metaforą, staje się:
 - walidowalne,  
 - odtwarzalne.
 
-TIMDR jest pierwszą filozofią, która **ma własny system walidacji**.
-
 ---
 
-## 4. Uzasadnienie logiczne
+## 4. Logiczna droga TIMDR
 
-W logice klasycznej:
+TIMDR wprowadza **logikę reżimów**:
 
-- sprzeczność = błąd,  
-- nieciągłość = problem.
-
-TIMDR odwraca to:
-
-### **Sprzeczność jest sygnałem zmiany reżimu, nie błędem.**
-
-Trigger MODEL_CONFLICT nie kończy dowodu —  
-**otwiera nowy reżim logiczny**, w którym definicje mają inny sens.
+- sprzeczność nie jest błędem,  
+- sprzeczność jest sygnałem zmiany reżimu,  
+- definicje mają sens tylko w swoim reżimie,  
+- trigger MODEL_CONFLICT otwiera nowy reżim logiczny.
 
 To jest logika dynamiczna, nie statyczna.
 
 ---
 
-## 5. Uzasadnienie topologiczne
+## 5. Topologiczna droga TIMDR
 
 Topologia opisuje:
 
@@ -88,7 +93,7 @@ Topologia opisuje:
 
 TIMDR wnosi:
 
-### **Trigger = zmiana klasy topologicznej obiektu lub sygnału.**
+### **trigger = zmiana klasy topologicznej obiektu lub sygnału.**
 
 To jest formalne ujęcie:
 
@@ -101,28 +106,7 @@ TIMDR nie tylko opisuje te zmiany —
 
 ---
 
-## 6. Co TIMDR wnosi nowego?
-
-### **A. Formalizację punktów krytycznych**
-TIMDR daje cztery triggery, które działają na każdym poziomie:
-
-- SCALE → zmiana skali bytu  
-- STRUCTURE → zmiana formy  
-- MODEL_CONFLICT → konflikt mapy z terytorium  
-- CONTINUITY → przerwanie ciągłości  
-
-### **B. Połączenie ontologii z sygnałem**
-TIMDR pokazuje, że sygnał jest cieniem zmiany ontologicznej.
-
-### **C. Walidowalność filozofii**
-TIMDR pozwala testować idee filozoficzne na danych.
-
-### **D. Samokorekta**
-TIMDR sam wykrywa, że jest w złym reżimie — i przełącza się.
-
----
-
-## 7. Walidacja i samokorekta
+## 6. Walidacja i samokorekta
 
 TIMDR jest walidowalny, ponieważ:
 
@@ -131,29 +115,84 @@ TIMDR jest walidowalny, ponieważ:
 - każdy trigger ma klasyfikację,  
 - każdy trigger jest odwracalny.
 
-TIMDR sam się koryguje:
+TIMDR jest samokorygujący:
 
-- MODEL_CONFLICT wykrywa błąd modelu,  
-- CONTINUITY wykrywa przerwy,  
-- STRUCTURE klasyfikuje zmianę,  
-- SCALE przełącza reżim.
+- wykrywa własne błędy,  
+- przełącza się między reżimami,  
+- aktualizuje swoje struktury.
 
-To jest **samokorekta strukturalna**, nie heurystyczna.
+To jest **stabilność dynamiczna**, nie statyczna.
 
 ---
 
-## 8. Podsumowanie
+## 7. Co TIMDR wnosi nowego?
 
-TIMDR jako droga filozoficzna, logiczna i topologiczna:
+### 7.1. Formalizację punktów krytycznych  
+Filozofia nigdy nie miała narzędzia do ich detekcji.
 
-- formalizuje zmianę,  
-- wykrywa punkty krytyczne,  
-- klasyfikuje pęknięcia,  
-- waliduje modele,  
-- koryguje się automatycznie,  
-- łączy ontologię z sygnałem,  
-- łączy logikę z topologią,  
-- łączy filozofię z inżynierią.
+### 7.2. Połączenie ontologii z sygnałem  
+TIMDR pokazuje, że sygnał jest cieniem zmiany ontologicznej.
 
-TIMDR jest **frameworkiem, który rozumie zmianę**.
+### 7.3. Walidowalność filozofii  
+TIMDR pozwala testować idee filozoficzne na danych.
 
+### 7.4. Samokorekta strukturalna  
+TIMDR wykrywa, że jest w złym reżimie i sam się przełącza.
+
+---
+
+## 8. Literatura naukowa (fundamenty TIMDR)
+
+Poniższa literatura nie opisuje TIMDR bezpośrednio —  
+ale stanowi **fundament naukowy**, na którym TIMDR się opiera.
+
+### **Ontologia i filozofia procesu**
+- A.N. Whitehead — *Process and Reality*  
+- G. Deleuze — *Difference and Repetition*  
+- H. Bergson — *Creative Evolution*  
+- M. Merleau-Ponty — *Phenomenology of Perception*
+
+### **Logika, teoria modeli, semantyka**
+- S. Kripke — *Semantical Considerations on Modal Logic*  
+- A. Tarski — *The Concept of Truth in Formalized Languages*  
+- J. Barwise & J. Etchemendy — *The Liar*  
+- J. van Benthem — *Logical Dynamics of Information and Interaction*
+
+### **Topologia, osobliwości, zmiana struktury**
+- R. Thom — *Structural Stability and Morphogenesis*  
+- V.I. Arnold — *Catastrophe Theory*  
+- M. Gromov — *Structures, Learning and Emergence*  
+- S. Smale — *Differential Dynamical Systems*
+
+### **Teoria systemów, sygnałów, reżimów**
+- L. Glass — *Dynamics of Biological Networks*  
+- S. Strogatz — *Nonlinear Dynamics and Chaos*  
+- E. Lorenz — *Deterministic Nonperiodic Flow*  
+- J. Sterman — *Business Dynamics: Systems Thinking and Modeling*
+
+### **Filozofia matematyki i struktury**
+- P. Badiou — *Being and Event*  
+- S. Shapiro — *Thinking About Mathematics*  
+- M. Resnik — *Mathematics as a Science of Patterns*
+
+---
+
+## 9. Podsumowanie
+
+TIMDR jest:
+
+- filozoficznie uzasadniony,  
+- logicznie spójny,  
+- topologicznie precyzyjny,  
+- technicznie walidowalny,  
+- strukturalnie samokorygujący.
+
+Dlatego jest teorią, która może być:
+
+- rozwijana,  
+- testowana,  
+- falsyfikowana,  
+- stosowana w praktyce.
+
+TIMDR nie jest metaforą —  
+**TIMDR jest formalną drogą rozumienia zmiany.**
